@@ -39,7 +39,7 @@ const styles = {
     fontSize: '0.875rem',
     color: '#FCFCFC',
     marginBottom: '2rem',
-    textAlign: 'justify',
+    textAlign: 'left',
     padding: '0 5px',
     lineHeight: '1.6',
   },
