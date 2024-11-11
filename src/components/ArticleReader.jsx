@@ -5,7 +5,7 @@ const styles = {
   container: {
     minHeight: '100vh',
     backgroundColor: '#567568',
-    padding: '1rem',
+    padding: '0',
   },
   card: {
     backgroundColor: '#001a23',
@@ -13,7 +13,7 @@ const styles = {
     boxShadow: '0 4px 6px rgba(0, 0, 0, 0.1)',
     margin: '0 auto',
     maxWidth: '42rem',
-    padding: '1.5rem',
+    padding: '1rem',
   },
   progress: {
     fontSize: '0.75rem',
@@ -55,6 +55,7 @@ const styles = {
   },
   button: {
     flex: 1,
+    color: 'white',
     backgroundColor: '#507DBC',
     fontSize: '0.875rem',
     padding: '0.5rem 1rem',
